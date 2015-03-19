@@ -4,5 +4,8 @@ It's a software design problem that creeps up in a bunch of contexts. In my worl
 ## What's the Solution? 
 This is just an exploration of a possible solution. I was reading an excellent overview article about the [state design pattern](http://www.codeproject.com/Articles/509234/The-State-Design-Pattern-vs-State-Machine) and it got me brainstorming. I wondered if it could be re-purposed for the design problem stated above. I did some pen-&-paper work to sketch out my idea, but I needed to go further. So, like any software developer, I started thinking by writing -- code.
 
-## Why Java? 
-Well, it's the medium that I most frequently observe this problem in. Of course, the problem is language agnostic, but languages have different ways of treating the problem. I'm fastest in Java, especially when thinking in DbC patterns. Oh, and I already have an example of this problem in [another git repo](https://github.com/buffetboy2001/Control-Component-Library).
+## Dude, Why Java? 
+Well, it's the medium that I most frequently observe this problem in. Of course, the problem is language-agnostic, but languages have different ways of treating the problem. I'm fastest in Java, especially when thinking in DbC patterns. Oh, and I already have an example of this problem in [another git repo](https://github.com/buffetboy2001/Control-Component-Library) and I'm shamelessly stealing code from it to work with.
+
+## Conclusion
+To Be Continued...
