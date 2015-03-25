@@ -5,6 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Framework for model-argument switching using the state design pattern.</name>
   <description></description>
-  <dependencies>
-  </dependencies>
+  
+	<dependencies>
+	       <dependency>
+	           <groupId>junit</groupId>
+	           <artifactId>junit</artifactId>
+	           <version>4.10</version>
+	           <scope>test</scope>
+	       </dependency>
+	</dependencies>
 </project>
